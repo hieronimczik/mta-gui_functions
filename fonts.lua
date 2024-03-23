@@ -102,7 +102,9 @@ function loadFonts()
 		["light32"] = dxCreateFont("fonts/light.ttf", 32, false),
 		["light33"] = dxCreateFont("fonts/light.ttf", 33, false),
 		["light34"] = dxCreateFont("fonts/light.ttf", 34, false),
-        --fastup--
+        ["light40"] = dxCreateFont("fonts/light.ttf", 40, false),
+        ["light50"] = dxCreateFont("fonts/light.ttf", 50, false),
+		--fastup--
 		["fastup12"] = dxCreateFont("fonts/fastup.ttf", 12, false),
 		["fastup13"] = dxCreateFont("fonts/fastup.ttf", 13, false),
 		["fastup14"] = dxCreateFont("fonts/fastup.ttf", 14, false),
