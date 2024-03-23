@@ -1,5 +1,3 @@
-
---outline 1
 function dxDrawRoundedRectangleOutline(x, y, w, h, radius, color, postGUI, subPixelPositioning, outline)
     dxDrawRoundedRectangle(x-outline, y, w, h, radius, color, postGUI, subPixelPositioning)
     dxDrawRoundedRectangle(x, y-outline, w, h, radius, color, postGUI, subPixelPositioning)
